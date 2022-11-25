@@ -3,4 +3,4 @@ DEMO LINK --->
 Real-Time River Water Quality Monitoring and Control System
 
 https://drive.google.com/file/d/1NYS2ZGvNrCgfqzScspDbXDkI3lhlVFlY/view?usp=drivesdk
-![Conoy-sm](https://user-images.githubusercontent.com/113835755/204012750-4ae16b90-a563-4bc0-9b6f-de4876c7a82f.jpg)
+![Real-Time Water Quality Monitoring_HEADER@2x](https://user-images.githubusercontent.com/113835755/204013717-962d94f8-5025-4328-b466-c94f4d27b496.jpg)
